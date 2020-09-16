@@ -242,8 +242,6 @@ def wbc_vogado_modified(f, debug_mode = False):
   print("--- %s seconds ---" % (time.time() - start_time))
   return img_morpho
 
-# SET THIS 
-# path = folder contain image dataset and groundtruth
 path = "drive/My Drive/ALL_IDB2/"
 original_image = cv2.imread(path)
 fcm = wbc_vogado_modified(original_image, True)
