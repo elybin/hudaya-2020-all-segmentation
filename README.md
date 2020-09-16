@@ -7,7 +7,7 @@ Acute lymphoblastic leukemia (ALL) segmentation method based on clustering algor
 ALL-IDB by F. Scotti<a href="#ref"><sup>[2]</sup></a> being used on this research. 
 
 # Index of Files
-### ./README.me (this file)
+### ./README.md (this file)
 ### ./vogado_method.m
 original source code of Vogado's<a href="#ref"><sup>[1]</sup></a> method. Forked from <a href="https://github.com/lhvogado/Recent-Computational-Methods-for-White-Blood-Cell-Nuclei-Segmentation-A-Comparative-Study">this repo</a>.
 ### ./vogado_method.py
