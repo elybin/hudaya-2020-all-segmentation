@@ -1,7 +1,7 @@
 # Hudaya (2020) ALL Segmentation
 Acute lymphoblastic leukemia (ALL) segmentation method based on clustering algorithm modification of Vogado's (2016)<a href="#ref"><sup>[1]</sup></a> method. All source code available on https://github.com/elybin/hudaya-2020-all-segmentation.<br/>
 <i>Khakim. A.N. Hudaya (khakim.a@students.unnes.ac.id)</i><br/>
-<i>Licensed Under CC-BY 4.0</i>
+<i>Licensed Under MIT</i>
 
 # Datasets 
 ALL-IDB by F. Scotti<a href="#ref"><sup>[2]</sup></a> being used on this research. 
